@@ -12,7 +12,7 @@ In the rapidly maturing landscape of **cryptocurrency derivatives**, the demand 
 
 This new framework addresses a critical gap in current market analysis by tailoring the traditional Gamma Exposure model—originally designed for equity indices—to the unique structural realities of the crypto ecosystem.
 
-![Glassnode Analytics Interface](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2025-12-19-unveiling-market-mechanics-glassnodes-taker-flow-gamma-exposure-metric-en-featured.png)
+
 
 ## The Friction of Traditional Models
 
