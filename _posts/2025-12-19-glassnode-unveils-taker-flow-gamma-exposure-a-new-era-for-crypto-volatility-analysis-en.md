@@ -3,7 +3,7 @@ layout: post
 title: "Glassnode Unveils Taker-Flow Gamma Exposure: A New Era for Crypto Volatility Analysis"
 date: "2025-12-19"
 author: "Jaden"
-featured_image: images/crypto_gamma_header.png
+featured_image: https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2025-12-19-glassnode-unveils-taker-flow-gamma-exposure-a-new-era-for-crypto-volatility-analysis-en-featured.png
 ---
 
 ## Introduction
@@ -14,7 +14,7 @@ However, applying traditional GEX models to the cryptocurrency market has been f
 
 This new approach promises to revolutionize how institutions and professional traders analyze volatility in the crypto space.
 
-![Analysis Header](images/crypto_gamma_header.png)
+![Analysis Header](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2025-12-19-glassnode-unveils-taker-flow-gamma-exposure-a-new-era-for-crypto-volatility-analysis-en-featured.png)
 
 ## The Friction in Traditional Models
 
