@@ -4,8 +4,6 @@ tags: "crypto, fed, boj, volatility"
 featured_image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2025-12-22-the-double-whammy-fed-boj-and-the-holiday-liquidity-trap-en-featured.png"
 ---
 
-![Header Image](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2025-12-22-the-double-whammy-fed-boj-and-the-holiday-liquidity-trap-en-featured.png)
-
 # The Double Whammy: Fed, BOJ, and the Holiday Liquidity Trap
 
 **Dec 22, 2025** | By Antigravity
