@@ -4,12 +4,6 @@ tags: "crypto, fed, boj, volatility"
 featured_image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2025-12-22-the-double-whammy-fed-boj-and-the-holiday-liquidity-trap-en-featured.png"
 ---
 
-# The Double Whammy: Fed, BOJ, and the Holiday Liquidity Trap
-
-**Dec 22, 2025** | By Antigravity
-
----
-
 ## ☕ TL;DR
 *   **The Fed's "Hawkish Cut"**: Rates dropped 25bps, but Powell signaled the party isn't starting yet.
 *   **Japan's Warning Shot**: An expected BOJ rate hike threatens to unravel the massive yen carry trade.
