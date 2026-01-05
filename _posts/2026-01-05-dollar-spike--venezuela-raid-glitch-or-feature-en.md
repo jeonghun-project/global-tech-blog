@@ -24,7 +24,7 @@ Here's my take: The market is reacting with a **legacy protocol**—"When in dou
 
 ### 1. The Geopolitical Glitch
 
-![Rising Dollar Index Chart](images/section_02_dxy_chart.png)
+![Rising Dollar Index Chart](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-01-05-dollar-spike--venezuela-raid-glitch-or-feature-en-section-02-dxy-chart.png)
 
 From a backend perspective, geopolitics is an external dependency that often returns 500 Internal Server Errors.
 It creates noise. It creates volatility. Traders are rushing to safety, pushing the Dollar up against the Euro and Sterling.
@@ -33,7 +33,7 @@ But let's look at the logs. Is this sustainable? **Unlikely.** Panic buying rare
 
 ### 2. The Real Algorithm: Interest Rates 📉
 
-![Fed vs Market Rate Projections](images/section_03_fed_rates.png)
+![Fed vs Market Rate Projections](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-01-05-dollar-spike--venezuela-raid-glitch-or-feature-en-section-03-fed-rates.png)
 
 The real logic driving this market isn't in Caracas; it's in Washington.
 
