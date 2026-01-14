@@ -5,7 +5,7 @@ description: "South Korean special prosecutors have requested the death penalty 
 tags: ["South Korea", "Geopolitics", "Yoon Suk Yeol", "Legal Risk"]
 ---
 
-![Yoon Trial Header](yoon_trial_header_1768368024067.png)
+![Yoon Trial Header](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-01-14-south-korea-prosecutors-seek-death-penalty-for-ex-president-yoon-en-yoon-trial-header-1768368024067.png)
 
 ## ☕ TL;DR
 
