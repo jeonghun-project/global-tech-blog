@@ -51,13 +51,9 @@ Beyond the drama, there is a structural concern raised by Wedbush analyst Dan Iv
 
 The market is waking up to the incestuous nature of AI capital flows.
 
-```mermaid
-graph TD
-    A[Big Tech / Nvidia] -->|Invest Capital| B(AI Startups / OpenAI)
-    B -->|Purchase Hardware/Cloud| A
-    style A fill:#76b900,stroke:#333,stroke-width:2px
-    style B fill:#000000,color:#fff,stroke:#333,stroke-width:2px
-```
+**The Loop Implies:**
+*   **Big Tech / Nvidia** invests capital into AI Startups.
+*   **AI Startups** immediately use that capital to buy Hardware/Cloud back from Big Tech.
 
 When Nvidia invests billions into a company that immediately sends those billions back to Nvidia to buy H200s, is it genuine revenue or just accounting alchemy?
 
