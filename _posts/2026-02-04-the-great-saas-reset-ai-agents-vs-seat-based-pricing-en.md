@@ -11,8 +11,8 @@ image: "https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main
   <h3>🚀 Executive Summary</h3>
   <ul>
     <li><strong>The Event:</strong> Global software stocks cratered (US & Asia) following Anthropic's new product launch.</li>
-    <li><strong>The Thesis:</strong> Investors fear AI agents will reduce headcount, dismantling the "Seat-Based Pricing" model.</li>
-    <li><strong>The Verdict:</strong> A structural valuation reset is underway. Prefer infrastructure/security over process apps.</li>
+    <li><strong>The Anomaly:</strong> TIS Inc dropped 15% despite announcing a massive share buyback/cancellation (usually bullish).</li>
+    <li><strong>The Hope:</strong> Salesforce's 'Agentforce' revenue hit $1.4B run rates (+114% YoY), proving the pivot is possible.</li>
   </ul>
 </div>
 
@@ -29,7 +29,8 @@ U.S. software darlings took a beating Tuesday, with the contagion spreading to A
 *   **Salesforce ( [$CRM](https://www.tradingview.com/symbols/CRM/) )**: -7%
 *   **TIS Inc (Japan)**: -15%
 
-The catalyst? **Anthropic’s** rollout of new legal tools for its "Cowork" product. This wasn't just a product update; it was a proof of concept that AI can handle complex, regulated workflows without a human in the loop.
+The most telling data point comes from Japan's **TIS Inc**. On the same day it crashed 15%, the company announced it would **cancel 7.8 million treasury shares (3% of float)**.
+In a normal market, a 3% buyback/cancellation sends a stock soaring. The fact that it still crashed 15% signals absolute capitulation on the business model itself.
 
 ## The Crisis of Seat-Based Pricing 💺
 
@@ -46,33 +47,29 @@ If a customer grows, they hire more people, and you sell more seats. Net Dollar 
 
 Investors are realizing that efficiency—the main selling point of AI—is deflationary for SaaS. If an AI agent can do the work of 5 junior accountants, Intuit sells 4 fewer licenses. The math is terrifying for high-multiple stocks.
 
-## Winners & Losers: Infra vs Apps 🛡️
+## Winners & Losers: The Agentforce Pivot 🛡️
 
-Ed Yardeni research put it bluntly: "Investors decided to cut the valuation multiples of software stocks."
+Is SaaS dead? Not if it evolves.
+**Salesforce** provides the roadmap for survival. While its stock fell with the sector, its fundamentals tell a different story.
 
-However, not all tech is toxic. Vey-Sern Ling from UBP highlights a bifurcation in the market:
+According to its latest report, Salesforce's **"Agentforce" and Data Cloud** segment has reached a **$1.4 Billion annual run rate**, growing **114% Year-over-Year**.
+This proves that legacy SaaS companies *can* pivot from selling "seats to humans" to selling "work to agents."
 
-1.  **The Vulnerable (Application Layer)**: Tools that digitized manual workflows (Accounting, HR, CRM basics). These are prime targets for AI replacement.
-2.  **The Resilient (Infrastructure & Security)**:
-    *   **Cybersecurity**: As AI attacks scale, defense must scale.
-    *   **Infrastructure**: The pipes and plumbing that run the AI (Cloud, DataOps).
-
-Strategies differ moving forward. Companies like Salesforce are aggressively pivoting to "Agentforce" to charge for *work done* rather than *seats*, but the transition is messy and unproven.
+Vey-Sern Ling from UBP highlights the safe havens:
+1.  **Infrastructure**: The pipes and plumbing that run the AI.
+2.  **Cybersecurity**: As AI attacks scale, defense must scale.
 
 ## Verdict: The Valuation Reset ⚖️
 
 This sell-off isn't a glitch; it's a **Price Discovery** event.
 The market is stripping away the "recurring revenue premium" that SaaS stocks enjoyed.
 
-If you are holding pure-play SaaS names, check their exposure to headcount.
-*   Are they tools for humans? (Risk ⬆️)
-*   Or are they platforms for intelligence? (Survival Chance ⬆️)
-
-The days of "Buy cloud stocks and sleep" are over.
+If you are holding pure-play SaaS names, do not just buy the dip. Look for the "Agent Revenue" line item.
+Like Salesforce's $1.4B, if they aren't monetizing the AI agents directly, they are likely the ones being replaced by them.
 
 ---
 
 > ⚠️ **Disclaimer**: This content is for informational purposes only and does not constitute investment advice. Investment decisions should be made based on your own judgment and responsibility.
 
 ---
-*Source: [CNBC](https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html)*
+*Source: [CNBC](https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html), Salesforce IR, MarketScreener*
