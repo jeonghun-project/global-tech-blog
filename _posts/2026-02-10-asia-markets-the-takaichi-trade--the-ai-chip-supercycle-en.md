@@ -4,7 +4,7 @@ date: "2026-02-10"
 description: "Japan's Nikkei hits record highs on 'Sanaenomics' while Korea's Kospi chases records fueled by AI demand. A deep dive into the divergent drivers of the Asian bull run."
 ---
 
-![Header Image](images/header_image_asia_markets.png)
+![Header Image](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-02-10-asia-markets-the-takaichi-trade--the-ai-chip-supercycle-en-header-image-asia-markets-1770689412445.png)
 
 ## 1. The Signal: Records Everywhere 📊
 
