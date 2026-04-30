@@ -33,6 +33,8 @@ The divergence between caffeinated and decaffeinated effects is the study's most
 
 **Both groups** showed reduced perceived stress, lower depression scores, decreased impulsivity, and reduced inflammation markers. Coffee itself, regardless of caffeine content, appears to confer emotional stabilization benefits.
 
+![Caffeinated vs Decaf Comparison](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-your-daily-coffee-is-remodeling-your-gut-and-brain-heres-what-a-new-nature-study-found-en-comparison-caffeine-vs-decaf.png)
+
 ## The Mechanism: Nine Metabolites Bridge Gut Bacteria and Brain Function
 
 The study identified a concrete molecular pathway connecting coffee to cognition.
@@ -41,7 +43,11 @@ Coffee drinkers showed elevated levels of *Cryptobacterium curtum* and *Eggerthe
 
 An integrated multi-omics model identified **nine key metabolites** — including theophylline, caffeine, and selected phenolic acids — that strongly mediate the relationship between specific microbial species and cognitive outcomes. In the words of co-author Prof. John Cryan: "Coffee may modify what microbes do collectively, and what metabolites they use."
 
+![Gut-Brain Axis Mechanism](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-your-daily-coffee-is-remodeling-your-gut-and-brain-heres-what-a-new-nature-study-found-en-flow-gut-brain-axis.png)
+
 One additional finding adds nuance: some metabolomic changes **reversed during abstinence** and **re-emerged upon reintroduction** regardless of caffeine content. The gut-coffee relationship is dynamic, bidirectional, and at least partially reversible.
+
+![Key Stats](https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-01-your-daily-coffee-is-remodeling-your-gut-and-brain-heres-what-a-new-nature-study-found-en-stats-coffee-study.png)
 
 ## What This Means For You: Three Evidence-Based Takeaways
 
