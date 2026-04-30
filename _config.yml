@@ -7,6 +7,7 @@ url: "https://toreta.uk"
 
 # SEO & Permalinks (✅ 키워드 URL)
 permalink: /:year/:month/:day/:title/
+future: true
 
 # Build settings
 theme: null # We are using custom layouts now
