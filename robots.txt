@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toreta.uk/global-tech-blog/sitemap.xml
