@@ -4,6 +4,8 @@ description: >-
   English content covering global tech trends and AI developments.
 baseurl: "/global-tech-blog"
 url: "https://toreta.uk"
+lang: en
+locale: en_US
 
 # SEO & Permalinks (✅ 키워드 URL)
 permalink: /:year/:month/:day/:title/
