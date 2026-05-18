@@ -1,8 +1,8 @@
 ---
-title: "Nvidia Gets China Approval, But Not a Single H200 Chip Has Shipped"
+title: "Nvidia Got China Export Approval — So Why Haven't Any Chips Shipped Yet?"
 date: "2026-05-15"
-description: "The US cleared H200 sales to 10 Chinese firms. Zero chips have moved. Yet SK Hynix just hit an all-time high. Here is what the market is actually pricing in — and what it isn't."
-tags: ["english", "Nvidia", "H200", "SK Hynix", "HBM", "semiconductor", "US-China trade", "AI chips"]
+description: "The US approved H200 sales to 10 Chinese firms but zero chips have moved. What the market is actually pricing in, and why SK Hynix hit an all-time high."
+tags: ["english", "Nvidia stock", "Nvidia H200", "Nvidia China export", "semiconductor stocks", "AI chip stocks 2026", "SK Hynix"]
 author: "Market Analysis Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/global-tech-blog/main/assets/images/2026-05-15-nvidia-gets-china-approval-but-not-a-single-h200-chip-has-shipped-en-featured.png
 lang: en
